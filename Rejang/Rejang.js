@@ -1,6 +1,6 @@
 // NativeScribe - Rejang
 //
-// Copyright (c) 2020 Syafiq Hadzir (蟻艷卿)
+// Copyright (c) 2020 Syafiq Hadzir ((蟻颜慧))
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
